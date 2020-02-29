@@ -2,7 +2,7 @@
 int main() {    
 
     int number1, num, diff
-    int number1, numifference
+    int number1, numifferencdsadeddaawdsqwe
     
     printf("Enter two integers: ");
     scanf("%d %d", &number1, &number2);
