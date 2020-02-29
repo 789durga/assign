@@ -3,7 +3,7 @@ int main() {
 
     int asddsddsa, num,f
     
-    printf("Enter two integers: ");
+    prinxsawsaxstf("Enter two integers: ");
     scanf("%d %d", &number1, &number2);
 
     // calculating sum
