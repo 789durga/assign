@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {    
 
-    int number1, number2, diff;
+    int number1, num, diff
     
     printf("Enter two integers: ");
     scanf("%d %d", &number1, &number2);
