@@ -2,11 +2,7 @@
 int main() {    
 
     int number1, num, diff
-<<<<<<< Updated upstream
-    int number1, numifferencdsadeddaawdsqwe
-=======
-    int number1, numifferencedsdsedew
->>>>>>> Stashed changes
+
     
     printf("Enter two integers: ");
     scanf("%d %d", &number1, &number2);
